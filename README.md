@@ -5,14 +5,14 @@ The `data/` directory structured as follows:
 ```
 data
 ├── 1
-|    ├── abnormal
-|     |    ├──{file_a}.jpg
-|     |    ├──{file_a}_M.jpg
-|     |     .........
-|    └── normal
-|         ├──{file_b}.jpg
-|         ├──{file_b}_M.jpg
-|          .........
+| ├── abnormal
+| | ├──{file_a}.jpg
+| | ├──{file_a}_M.jpg
+| | .........
+| └── normal
+|   ├──{file_b}.jpg
+|   ├──{file_b}_M.jpg
+|   .........
 ├── 2
 ...
 └── 10
