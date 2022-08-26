@@ -21,8 +21,8 @@ folder 1 to folder 10 store corresponding fold data,
 fold data were separate into abnormal and normal folder,
 paired image and hydronephrosis mask have same prefix of file name.
 
-![example img](data\5\abnormal\_dicoms_abnormal_20201027_S0000002_US000001_000.jpg)
-![example mask](data\5\abnormal\_dicoms_abnormal_20201027_S0000002_US000001_000_M.jpg)
+![example img](data/5/abnormal/_dicoms_abnormal_20201027_S0000002_US000001_000.jpg)
+![example mask](data/5/abnormal/_dicoms_abnormal_20201027_S0000002_US000001_000_M.jpg)
 
 ### Statistics
 
